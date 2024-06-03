@@ -28794,7 +28794,7 @@ const Portfolio = ()=>{
                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                             src: (0, _girlJpegDefault.default),
                             style: {
-                                height: "90%",
+                                height: "100%",
                                 width: "100%",
                                 objectFit: "cover"
                             },
