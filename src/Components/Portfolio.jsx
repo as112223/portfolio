@@ -32,8 +32,7 @@ const imageAltText = "desktop with books and laptop";
 const projectList = [
   {
     title: "Website for club members",
-    description:
-      "Contributed to my club by designing a website for our members",
+    description: "Contributed to my club by designing a website for our members",
     url: "https://drive.google.com/file/d/1_WgTNA3iv5yZe8uWrh6BFrHMDQqPisz6/view?usp=drivesdk",
   },
   {
